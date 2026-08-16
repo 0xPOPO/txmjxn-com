@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.txmjxn.com/sitemap.xml
